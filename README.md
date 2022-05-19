@@ -25,10 +25,10 @@ In order to create the web page displaying earthquake data, the following steps 
 Earthquake map with interactive buttons, maps, and layers
 
 
-<img src=”Resources/main_page.png” width=”75%”>
+<img src="Resources/main_page.png" width="100%">
 
 
 Earthquake map with Night View, Tectonic Plates, and Major Earthquakes selected
 
 
-<img src=”Resources/majquakes_night.png” width=”75%”>
+<img src="Resources/majquakes_night.png" width="100%">
